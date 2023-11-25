@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RENTAL SYSTEM code", "..\..\..\OneDrive\Desktop\on-re-sy\1\RENTAL SYSTEM code\", "{86E88B3C-7F93-4A26-BC87-4062D2F6E32A}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_56337"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\OneDrive\Desktop\on-re-sy\1\RENTAL SYSTEM code\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56337\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_56337"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\OneDrive\Desktop\on-re-sy\1\RENTAL SYSTEM code\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56337\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "56337"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86E88B3C-7F93-4A26-BC87-4062D2F6E32A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E88B3C-7F93-4A26-BC87-4062D2F6E32A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0DCFE50-F0BF-4DE8-BC3E-86A83C71AB07}
+	EndGlobalSection
+EndGlobal
